@@ -1,7 +1,4 @@
-Documentação do Código
-Aqui está a documentação para o código fornecido. Esta documentação explica as classes e funções implementadas no código, suas finalidades e como podem ser utilizadas.
-
-DinheiroStrategy
+.DinheiroStrategy
 Uma classe que define uma estratégia de cálculo de pagamento usando dinheiro.
 
 Métodos:
